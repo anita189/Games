@@ -1,0 +1,20 @@
+{
+  "version": "1.0.2",
+  "name": "NS-RPC",
+  "outputfilename": "NS-RPC",
+  "frontend:install": "yarn install",
+  "frontend:build": "yarn build",
+  "frontend:dev:watcher": "yarn dev",
+  "frontend:dev:serverUrl": "auto",
+  "assetdir": "./frontend/dist",
+  "author": {
+    "name": "AlmightyCX",
+    "email": "admin@da532.com"
+  },
+  "info": {
+    "companyName": "AlmightyCX",
+    "productVersion": "1.0.2",
+    "copyright": "AlmightyCX",
+    "comments": "An application to display your Switch Games in Discord."
+  }
+}
